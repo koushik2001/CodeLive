@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/CodeLive/static/css/main.85889888.chunk.css",
+    "main.js": "/CodeLive/static/js/main.90834de2.chunk.js",
+    "main.js.map": "/CodeLive/static/js/main.90834de2.chunk.js.map",
+    "runtime-main.js": "/CodeLive/static/js/runtime-main.922b3807.js",
+    "runtime-main.js.map": "/CodeLive/static/js/runtime-main.922b3807.js.map",
+    "static/css/2.3ceb25c6.chunk.css": "/CodeLive/static/css/2.3ceb25c6.chunk.css",
+    "static/js/2.a21442ce.chunk.js": "/CodeLive/static/js/2.a21442ce.chunk.js",
+    "static/js/2.a21442ce.chunk.js.map": "/CodeLive/static/js/2.a21442ce.chunk.js.map",
+    "index.html": "/CodeLive/index.html",
+    "static/css/2.3ceb25c6.chunk.css.map": "/CodeLive/static/css/2.3ceb25c6.chunk.css.map",
+    "static/css/main.85889888.chunk.css.map": "/CodeLive/static/css/main.85889888.chunk.css.map",
+    "static/js/2.a21442ce.chunk.js.LICENSE.txt": "/CodeLive/static/js/2.a21442ce.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.922b3807.js",
+    "static/css/2.3ceb25c6.chunk.css",
+    "static/js/2.a21442ce.chunk.js",
+    "static/css/main.85889888.chunk.css",
+    "static/js/main.90834de2.chunk.js"
+  ]
+}
